@@ -1,6 +1,3 @@
-"# REST-API-with-Express-Nodejs-and-MySQL-" 
-"# three.js" 
-"# three.js" 
-"# threejs" 
-"# threejs-3d-cube" 
-"# three" 
+This is a sample code for rotating cube using three.js library for webGL
+Include the directory of the main.js, style.css and three.js files in index.html
+
